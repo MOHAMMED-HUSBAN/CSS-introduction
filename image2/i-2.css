@@ -1,0 +1,73 @@
+.back{
+    border-right: 2px solid;
+    background-color: blanchedalmond;
+    width: 800px;
+    height: 600px;
+
+}
+.a{  
+    background-color: rgba(206, 200, 200, 0.895);
+    width:  200px;
+    height: 170px ;
+    margin: 20px; 
+    float: inline-start;     
+    margin-left: 15px; 
+    overflow: hidden;
+}
+.b{  
+    background-color: rgba(206, 200, 200, 0.895);
+    width:  200px;
+    height: 170px ;
+    margin: 20px; 
+    float: inline-start;     
+    margin-right: 15px; 
+    overflow: hidden;
+}
+.c{  
+    background-color: rgba(206, 200, 200, 0.895);
+    width:  200px;
+    height: 170px ;
+    margin: 20px; 
+    float: inline-start;     
+    margin-right: 15px; 
+    overflow: hidden;
+}
+.x {
+    
+    border: 1px solid black;
+    background-color: rgb(175, 175, 175);
+    width: 800px;
+    height: 65px;
+    overflow-y: scroll;
+    margin:15px ;
+  }
+  .d{  
+    background-color: rgba(206, 200, 200, 0.895);
+    width:  200px;
+    height: 170px ;
+    margin: 20px; 
+    float: inline-start;     
+    margin-right: 15px; 
+    margin-top: 10px;
+    margin-left:13px ;
+    overflow: hidden;
+}
+.e{  
+    background-color: rgba(206, 200, 200, 0.895);
+    width:  200px;
+    height: 170px ;
+    margin: 20px; 
+    margin-top: 10px;
+    float: inline-start;     
+    margin-right: 15px; 
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+  
+  
